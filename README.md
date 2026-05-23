@@ -45,16 +45,23 @@ It is designed for business reporting, sales analytics, and workflow automation 
 # Preview
 
 ## Monthly Revenue & Profit Analysis
-(Add screenshot here)
+
+![Revenue Chart](images/revenue_profit.png)
+
 
 ## Revenue by Product Category
-(Add screenshot here)
+
+![Category Chart](images/category_chart.png)
+
 
 ## Automated PDF Business Report
-(Add screenshot here)
+
+![PDF Report](images/pdf_report.png)
+
 
 ## Excel Dashboard Output
-(Add screenshot here)
+
+![Excel Dashboard](images/excel_dashboard.png)
 
 
 # Example Business Use Cases

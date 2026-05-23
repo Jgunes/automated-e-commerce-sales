@@ -1,5 +1,17 @@
 # Automated E-Commerce Sales Dashboard & PDF Report Generator
 
+## Business Automation Project
+
+This project demonstrates a complete automated sales reporting workflow for e-commerce businesses.
+
+It processes raw sales datasets, calculates KPIs, generates charts, exports Excel dashboards, and creates automated PDF business reports.
+
+Designed for:
+- E-commerce businesses
+- Sales teams
+- Data reporting workflows
+- Business intelligence automation
+
 This project automates e-commerce sales analysis using Python, Pandas, and Matplotlib.
 The system processes raw sales data, calculates business KPIs, generates professional charts, creates Excel dashboards, 
 and automatically exports PDF business reports.

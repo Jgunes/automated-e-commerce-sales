@@ -63,7 +63,7 @@ It is designed for business reporting, sales analytics, and workflow automation 
 
 ## Revenue by Product Category
 
-![Category Chart](revenue_by_category.png)
+![Category Chart](category_chart.png)
 
 
 ## Automated PDF Business Report
@@ -82,7 +82,7 @@ It is designed for business reporting, sales analytics, and workflow automation 
 
 ## Revenue by Sales Channel
 
-![Sales Channel](revenue_by_channel.png)
+![Sales Channel](channel_chart.png)
 
 
 # Example Business Use Cases

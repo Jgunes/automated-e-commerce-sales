@@ -77,7 +77,7 @@ It is designed for business reporting, sales analytics, and workflow automation 
 
 ## Profit by Region
 
-![Profit Region](profit_by_region.png)
+![Profit Region](region_chart.png)
 
 
 ## Revenue by Sales Channel
